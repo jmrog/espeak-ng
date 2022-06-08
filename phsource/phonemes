@@ -1840,6 +1840,9 @@ include ph_basque
 phonemetable grc base2
 include ph_greek_ancient
 
+phonemetable grck base2
+include ph_greek_koine
+
 phonemetable id base2
 include ph_indonesian
 

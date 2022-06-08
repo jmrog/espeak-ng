@@ -663,6 +663,7 @@ Translator *SelectTranslator(const char *name)
 		break;
 	case L('e', 'l'): // Greek
 	case L3('g', 'r', 'c'): // Ancient Greek
+	case L4('g', 'r', 'c', 'k'): // Koine Greek
 	{
 		static const short stress_lengths_el[8] = { 155, 180,  210, 210,  0, 0,  270, 300 };
 		static const unsigned char stress_amps_el[8] = { 15, 12, 20, 20, 20, 22, 22, 21 }; // 'diminished' is used to mark a quieter, final unstressed syllable
