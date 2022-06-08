@@ -3,17 +3,12 @@
 //  Koine Greek (Buth Pronunciation) - based on grc and el
 //====================================================
 
-phoneme : //  Lengthen previous vowel by "length"
-  virtual
-  length 100
-endphoneme
-
 
 // VOWELS
 
 phoneme a
   vwl starttype #a endtype #a
-  length 140
+  length 160
 
   IF thisPh(isWordEnd) AND thisPh(isNotStressed) AND nextPh(a) THEN
     ChangePhoneme(NULL)
@@ -27,14 +22,14 @@ endphoneme
 
 phoneme e
   vwl starttype #e endtype #e
-  length 140
+  length 150
   FMT(vowel/e_mid2)
 endphoneme
 
 phoneme E
   vwl starttype #e endtype #e
-  length 150
-  FMT(vowel/ee_1)
+  length 170
+  FMT(vowel/e_6)
 endphoneme
 
 phoneme i
@@ -52,7 +47,7 @@ endphoneme
 
 phoneme u
   vwl starttype #u endtype #u
-  length 160
+  length 170
   FMT(vowel/u_bck)
 endphoneme
 

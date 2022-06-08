@@ -185,8 +185,8 @@
            αυ (B    af      // +voiceless consonant κ, π, τ, χ, θ, σ, ξ.
            αύ      'av
            αύ (B   'af      // +voiceless consonant κ, π, τ, χ, θ, σ, ξ.
-           αη       aE: //MARK!
-           αή      'aE: //MARK!
+           αη       aE //MARK!
+           αή      'aE //MARK!
            αϊ       aI
 
 .group β
@@ -227,13 +227,13 @@
             //MARK!
 
 .group η
-           η        E: //MARK!
-           ηι       Ei: //MARK!
-           ηί      'Ej: //MARK!
-           ηυ       E:v //MARK!
-           ηύ      'E:v //MARK!
-           ηυ (B    E:f      // +voiceless consonant //MARK!
-           ηύ (B   'E:f      // +voiceless consonant //MARK!
+           η        E //MARK!
+           ηι       Ei //MARK!
+           ηί      'Ej //MARK!
+           ηυ       Ev //MARK!
+           ηύ      'Ev //MARK!
+           ηυ (B    Ef      // +voiceless consonant //MARK!
+           ηύ (B   'Ef      // +voiceless consonant //MARK!
 
 .group θ
            θ        T
@@ -298,8 +298,8 @@
            οί       'y //MARK!
            ου       u
            ού       'u
-           οη       oE: //MARK!
-           οή       'oE: //MARK!
+           οη       oE //MARK!
+           οή       'oE //MARK!
            οϊ       oI
 
 .group π
@@ -372,16 +372,16 @@
 
 .group
            ά        'a
-           άη       'aE: //MARK!
+           άη       'aE //MARK!
            άι       'aI
            έ        'e
-           ή        'E: //MARK!
+           ή        'E //MARK!
            ί        'i
            ΐ        'i   // dialytika + tonos
            ϊ        i
            ϋ        y //MARK!
            ό        'o
-           όη       'oE: //MARK!
+           όη       'oE //MARK!
            όι       'oI
            ύ        'y //MARK!
            ΰ        'y   // dialytika + tonos //MARK!

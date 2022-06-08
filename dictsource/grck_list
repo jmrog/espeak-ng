@@ -6,7 +6,7 @@
 // ά έ ή ί ΰ ϊ ϋ ό ύ ώ
 
 // numbers
-_0	mE:D'en
+_0	mED'en
 _1	'en
 _2	D'yo
 _3	tr'ia
@@ -22,11 +22,11 @@ _12	D'oDeka
 _2X	'ikosi
 _3X	tri'akonta
 _4X	tesar'akonta
-_5X	pent'E:konta
-_6X	eks'E:konta
-_7X	ebdom'E:konta
-_8X	ogdo'E:konta
-_9X	enen'E:konta
+_5X	pent'Ekonta
+_6X	eks'Ekonta
+_7X	ebdom'Ekonta
+_8X	ogdo'Ekonta
+_9X	enen'Ekonta
 _0C	ekat'on_
 _1C	ekat'on_
 _2C	D;ak'os;a_
@@ -47,7 +47,7 @@ _dpt	_k'oma
 _0and ke
 
 _#ος	os	// ordinal suffix
-_#η	E:
+_#η	E
 _#ον	on
 _ord    os     // default ordinal suffix
 
@@ -69,11 +69,11 @@ _1Xo	D'ekat
 _2Xo	ikost'
 _3Xo	triakost'
 _4Xo	tessarakost'
-_5Xo	pendE:kost'
-_6Xo	eksE:kost'
-_7Xo	evDomE:kost'
-_8Xo	oQDoE:kost'
-_9Xo	enenE:kost'
+_5Xo	pendEkost'
+_6Xo	eksEkost'
+_7Xo	evDomEkost'
+_8Xo	oQDoEkost'
+_9Xo	enenEkost'
 _1Co	ekatost'
 _2Co	D;akos;ost'
 _3Co	tr;akos;ost'
@@ -117,15 +117,15 @@ _3M1o	trisCil^ost'
 // prefixed by a _ character.
 
 α       alfa
-β       vE:ta
+β       vEta
 γ       Qama
 δ       Delta
 ε       'epsilon
-ζ       zE:ta
+ζ       zEta
 
-_η	'E:ta
-η	'E:ta  $atend
-θ       TE:ta
+_η	'Eta
+η	'Eta  $atend
+θ       TEta
 ι       i'ota
 κ       kapa
 λ       lamDa

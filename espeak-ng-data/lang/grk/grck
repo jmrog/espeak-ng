@@ -1,2 +1,5 @@
 name Greek (Koine)
 language grck
+
+stressLength 170 170  190 190  0 0  230 240
+words 3
